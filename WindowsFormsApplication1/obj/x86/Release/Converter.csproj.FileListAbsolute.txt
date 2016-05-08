@@ -1,0 +1,15 @@
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\Converter.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\Converter.csprojResolveAssemblyReference.cache
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\Converter.csproj.GenerateResource.Cache
+D:\Projects\Converter\WindowsFormsApplication1\bin\Release\Currency.exe
+D:\Projects\Converter\WindowsFormsApplication1\bin\Release\Currency.pdb
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\Currency.exe
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Release\Currency.pdb

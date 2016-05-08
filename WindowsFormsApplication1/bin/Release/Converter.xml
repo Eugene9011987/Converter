@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<converter>
+  <date dt="29.12.2015">
+    <usd>24.96</usd>
+    <eur>27.32</eur>
+    <rub>0.36</rub>
+  </date>
+  <date dt="3.1.2016">
+    <usd>25.4147</usd>
+    <eur>27.7923</eur>
+    <rub>0.3536</rub>
+  </date>
+  <date dt="14.1.2016">
+    <usd>25.7496</usd>
+    <eur>28.0043</eur>
+    <rub>0.3398</rub>
+  </date>
+  <date dt="15.1.2016">
+    <usd>25.7496</usd>
+    <eur>28.0043</eur>
+    <rub>0.3398</rub>
+  </date>
+  <date dt="16.4.2016">
+    <usd>25.8394</usd>
+    <eur>29.2425</eur>
+    <rub>0.3916</rub>
+  </date>
+  <date dt="15.4.2016">
+    <usd>25.8394</usd>
+    <eur>29.2425</eur>
+    <rub>0.3916</rub>
+  </date>
+</converter>

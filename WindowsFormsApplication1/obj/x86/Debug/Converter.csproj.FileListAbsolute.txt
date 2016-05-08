@@ -1,0 +1,24 @@
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\Converter.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\Converter.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Programming\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Programming\Projects\Converter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Programming\Projects\Converter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Programming\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\Converter.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programming\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programming\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\Converter.csproj.GenerateResource.Cache
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\Converter.csprojResolveAssemblyReference.cache
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\Converter.csproj.GenerateResource.Cache
+D:\Projects\Converter\WindowsFormsApplication1\bin\Debug\Currency.exe
+D:\Projects\Converter\WindowsFormsApplication1\bin\Debug\Currency.pdb
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\Currency.exe
+D:\Projects\Converter\WindowsFormsApplication1\obj\x86\Debug\Currency.pdb
