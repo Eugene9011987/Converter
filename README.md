@@ -1,2 +1,2 @@
 # Converter
-Currency converter with option to save exchange eates by date
+Currency converter with option to save exchange rates by date
